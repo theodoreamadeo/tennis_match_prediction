@@ -69,12 +69,13 @@ We will use various Machine Learning Techniques to determine which one is the be
 
 After running the machine learning system, we can conclude that our hyphotesis as stated before is correct. There are five aspects that always been the top 5 features importance for all of the modes. Table below will explain the top 5 features importance to win a tennis match.
 - **Features Importance**
-| No. | Feature Importance | Reason |
-|-----|-------------------|---------|
-| 1. | Break Point Faced | A critical metric **indicating the pressure a player faces during a match**. Reflects how well a player handles high-pressure situations. |
-| 2. | Break Point Saved | **Represents the player's defensive capability to turn around challenging scenarios**. Key to maintaining momentum. |
-| 3. | First-Serve Point Won | **Indicates the player's ability to capitalize on their first serve**, crucial for dictating match tempo. |
-| 4. | Second-Serve Point Won | **Measures performance under pressure, especially when the first serve fails**. Highlights resilience and adaptability. |
-| 5. | Serve Point | **A composite measure of the player's effectiveness during their own service games**. Reflects overall control and dominance on serve. |
+
+| No. | Feature Importance | Description |
+|-----|-------------------|-------------|
+| 1. | Break Point Faced | A critical metric indicating the pressure a player faces during a match. Reflects how well a player handles high-pressure situations. |
+| 2. | Break Point Saved | Represents the player's defensive capability to turn around challenging scenarios. Key to maintaining momentum. |
+| 3. | First-Serve Point Won | Indicates the player's ability to capitalize on their first serve, crucial for dictating match tempo. |
+| 4. | Second-Serve Point Won | Measures performance under pressure, especially when the first serve fails. Highlights resilience and adaptability. |
+| 5. | Serve Point | A composite measure of the player's effectiveness during their own service games. Reflects overall control and dominance on serve. |
 
 Based on this table, the coach should focus on improving the player’s resilience in high-pressure situations, especially around break points. Emphasis should be placed on strategies to reduce the frequency of Break Points Faced and enhance the player's ability to save break points, as these metrics reflect the player’s ability to manage stressful moments and maintain momentum. Additionally, the coach should work on increasing the player's effectiveness on first and second serves to maximize First-Serve Point Won and Second-Serve Point Won, which are critical for controlling the match tempo and adaptability under pressure. Focusing on improving the overall Serve Point metric will also be crucial, as it reflects the player's dominance and control in their service games, which is essential for sustaining performance throughout matches.
