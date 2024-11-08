@@ -7,7 +7,7 @@ _This is a Final Project for MA0218 (Introduction to Data Science and Artificial
 
 ## Contributors
 
-1. Theodore Amadeo Argasetya Atmadja <a href = "https://github.com/theodoreamadeo">@theodoreamadeo</a> - Data Cleaning, GitHub Setters, Evaluation, and Machine Learning
+1. Theodore Amadeo Argasetya Atmadja <a href = "https://github.com/theodoreamadeo">(@theodoreamadeo)</a> - Data Cleaning, GitHub Setters, Evaluation, and Machine Learning
 2. Askana Mirza Maulana Irfany - Presentation Slides, Machine Learning, and Data Extraction
 3. Timothy Louis Barus - Data Visualization, Exploratory Data Analysis, and Machine Learning
 4. Antonius Ivan Setiawan Rahardja - Data Visualization and Machine Learning
